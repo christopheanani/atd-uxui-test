@@ -5,6 +5,7 @@ Conception d'une version simplifiée et accessible d'un parcours mobile permetta
 ## Prototype
 
 **Prototype Figma :** 
+https://www.figma.com/design/IJ7ACZIh3Vw0r3wCm8ZbvS/atd-uxui-test?node-id=0-1&t=rvtS9Y8XW7fSP3YN-1
 
 **Livrable :** 5 écrans mobile couvrant les étapes essentielles de la démarche.
 
@@ -340,10 +341,11 @@ La proposition repose sur quelques principes simples :
 
 ## Prototype
 
-[Figma — Prototype interactif](LIEN_FIGMA)
+[Figma — Prototype interactif]
+https://www.figma.com/design/IJ7ACZIh3Vw0r3wCm8ZbvS/atd-uxui-test?node-id=0-1&t=rvtS9Y8XW7fSP3YN-1
+
 
 ## Auteur
 
 **Christophe Anani**
-
 UX/UI Designer
